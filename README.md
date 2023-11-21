@@ -1,3 +1,7 @@
+# Status report
+
+- abort, abort, ABORT
+
 # Címsor1
 ## Címsor2
 ### Címsor3
