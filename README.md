@@ -1,3 +1,7 @@
+# Status report
+
+- abort, abort, ABORT
+
 # Címsor1
 ## Címsor2
 ### Címsor3
@@ -14,3 +18,5 @@ meg ez is egy bekezdés
 1. egyes
 2. kettes
 3. hármas
+
+# bogrács markovichon??? #
