@@ -4,4 +4,10 @@
         "user":"admin",
         "pass":"1234"
     }
+
+    {
+        "id":2,
+        "user":"gyermek",
+        "pass":"123"
+    }
 ]
